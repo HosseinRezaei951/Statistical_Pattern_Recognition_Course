@@ -44,11 +44,11 @@ The Kernel PCA algorithm was implemented in MATLAB as `my_kernelPCA`. This funct
 
 - **Polynomial Kernel PCA**: Applied Kernel PCA with a polynomial kernel for `d` ranging from 1 to 9. The results were visualized and saved in the `results/polynomial_kernel_PCA.png` file.
   
-  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/5/results/polynomial_kernel_PCA.png)
+  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/5/results/polynomial_kernel_PCA.png)
 
 - **Gaussian Kernel PCA**: Applied Kernel PCA with a Gaussian kernel for `sigma` ranging from 1 to 9. The results were visualized and saved in the `results/gaussian_kernel_PCA.png` file.
 
-  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/5/results/gaussian_kernel_PCA.png)
+  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/5/results/gaussian_kernel_PCA.png)
 
 ## How to Run the Project
 

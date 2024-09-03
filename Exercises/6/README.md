@@ -39,11 +39,11 @@ The hybrid approach successfully reduced the feature set from 2135 features to j
 
 - **Confusion Matrix**: Below is the confusion matrix generated after applying the model to the test set:
 
-![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/6/results/confusion_matrix.jpg)
+![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/6/results/confusion_matrix.jpg)
 
 - **Performance Metrics**: The model's performance on the test set is summarized in the bar chart below, showing accuracy, sensitivity, specificity, precision, and F1-score:
 
-![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/6/results/results.jpg)
+![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/6/results/results.jpg)
 
 ## How to Run the Project
 

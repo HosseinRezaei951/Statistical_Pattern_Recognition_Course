@@ -68,7 +68,7 @@ The PCA algorithm was implemented in a custom MATLAB function `my_pca.m`. The PC
 - **Results Visualization**:
   - The PCA-transformed data was visualized using a scatter plot, demonstrating that the class separation in the original data is preserved after PCA.
 
-  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/4/results/2.jpg)
+  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/4/results/2.jpg)
 
 ## How to Run the Project
 
