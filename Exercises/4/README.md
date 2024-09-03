@@ -53,9 +53,9 @@ The PCA algorithm was implemented in a custom MATLAB function `my_pca.m`. The PC
 - **Results Visualization**:
   - The original and PCA-transformed data were plotted, showing the preservation of the data’s structure after dimensionality reduction.
 
-  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/4/results/1.jpg)
+  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/4/results/1.jpg)
 
-  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercise/4/results/2.jpg)
+  ![alt text](https://github.com/HosseinRezaei951/Statistical_Pattern_Recognition_Course/blob/main/Exercises/4/results/2.jpg)
 
 ### Application on Iris Dataset
 
